@@ -1,1 +1,1 @@
-this is the code for a simple clicker game
+🍞 This is the code for https://bread-clicker.com/ a simple clicker game 🍞
